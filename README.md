@@ -1,5 +1,5 @@
 - 👋 Hello there, I’m Yeshua Lopez.
-- 👀 I’m interested in coding, physics, and dogs!
+- 👀 I’m interested in coding, physics, and games!
 - 🌱 I’m currently learning HTML, CSS, and JS.
 - 💞️ I’m looking to collaborate on web development, and game development.
 - 📫 You can reach me through my email! :D  @lopezyeshua@gmail.com
