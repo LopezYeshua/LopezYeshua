@@ -1,7 +1,7 @@
-- 👋 Hello there, my name is Yeshua Lopez.
-- 👀 I’m interested in coding, physics, and games!
-- 🌱 I’m currently learning HTML, CSS, and JS.
-- 💞️ I’m looking to collaborate on web development, and game development.
+# Hello, my name is Yeshua Lopez 👋
+### I'm a fullstack developer!
+I’m currently learning Java, CSS, C++, and javaScript.
+- I'm open to collaborate on front-end, back-end, or even game development.
 - 📫 You can reach me through my email! :D  @lopezyeshua@gmail.com
 
 <!---
