@@ -1,10 +1,4 @@
 
-<style>
-    .webApps {
-        margin-top: 5em;
-        text-align: center
-    }
-</style>
 
 # Hello, my name is Yeshua Lopez 👋
 ### I'm a fullstack developer!
