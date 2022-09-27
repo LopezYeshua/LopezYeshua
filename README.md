@@ -17,6 +17,7 @@ I recently graduated an intensive coding bootcamp where I learned and collaborat
 <h2 class="webApps">Most Recent Web Applications</h2>
 
 ## [WeScripts](https://github.com/LopezYeshua/WeScripts)
+
 <img src="./static/typing.gif"/>
 
 
