@@ -1,5 +1,5 @@
 # Hello world, my name is Yeshua Lopez 👋
-### I'm a fullstack developer/ game developer!
+### I'm a fullstack developer!
 I’m currently learning C#, C++, and game development using Unity!
 I recently graduated an intensive coding bootcamp where I learned and collaborated with a group of hard working people.
 - I'm open to collaborate on front-end, back-end, or even game development.
