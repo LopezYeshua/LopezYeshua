@@ -12,7 +12,7 @@ I recently graduated an intensive coding bootcamp where I learned and collaborat
 
 ## [WeScripts](https://github.com/LopezYeshua/WeScripts)
 
-<img src="./static/typing.gif" width="700"/>
+<img src="./static/typing2.gif" width="700"/>
 
 <br>
 
