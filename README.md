@@ -10,7 +10,7 @@ I recently graduated an intensive coding bootcamp where I learned and collaborat
 
 <h1 class="webApps">Most Recent Web Applications</h1>
 
-## [WeScripts](https://github.com/LopezYeshua/WeScripts) [live-site](http://www.wescripts.org)
+## [WeScripts](https://github.com/LopezYeshua/WeScripts)
 
 <img src="./static/typing2.gif" width="700"/>
 
